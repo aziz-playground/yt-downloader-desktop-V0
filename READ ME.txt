@@ -1,0 +1,10 @@
+this is very important***this app requires ffmpeg to work , this how u can set it up.
+
+1 go to https://www.ffmpeg.org/download.html and download ffmpeg .
+2. Extract the ZIP file
+2-copy the ffmpeg file and paste it in ur locacl disk c then add the bin folder inside the ffmpeg folder to the path ,
+ if u dont know how to add a file to the path ask chatgpt , this step is very important because without the ffmpeg python cant prosess mp3 and mp4 files***
+3. Go to dist folder
+4. Run download_gui.exe
+5. Paste the YouTube link and choose MP4 or MP3
+6. Downloaded files will appear in the same folder
